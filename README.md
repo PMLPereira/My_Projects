@@ -10,3 +10,4 @@ List:
 
 1. Titanic Project (Supervised Techniques) 
 2. Tweets by Hillary Clinton and Donald Trump (Supervised and Unsupervised Techniques)
+3. Patients with diabetes readmission analysis (Supervised and Unsupervised Techniques)
